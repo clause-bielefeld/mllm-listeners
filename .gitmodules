@@ -1,0 +1,6 @@
+[submodule "colorgrid_data"]
+	path = colorgrid_data
+	url = https://github.com/forkunited/ltprg.git
+[submodule "colorpatch_data"]
+	path = colorpatch_data
+	url = https://github.com/futurulus/coop-nets.git

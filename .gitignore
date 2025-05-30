@@ -1,0 +1,6 @@
+*__pycache__
+*ipynb_checkpoints
+models/model_weights
+configuration.py
+slurm
+generated_tables

@@ -16,6 +16,7 @@ Code for the paper "Are Multimodal Large Language Models Pragmatically Competent
 
 ## Citation
 
+```
 @inproceedings{junker-2025-multimodal,
   title = {Are multimodal large language models pragmatically competent listeners in simple reference resolution tasks?},
   booktitle = {Findings of the Association for Computational Linguistics: ACL 2025},
@@ -26,3 +27,4 @@ Code for the paper "Are Multimodal Large Language Models Pragmatically Competent
   pages = {}
   doi = {10.48550/arXiv.2506.11807}
 }
+```

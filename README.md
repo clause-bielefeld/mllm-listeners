@@ -16,4 +16,13 @@ Code for the paper "Are Multimodal Large Language Models Pragmatically Competent
 
 ## Citation
 
-To be added
+@inproceedings{junker-2025-multimodal,
+  title = {Are multimodal large language models pragmatically competent listeners in simple reference resolution tasks?},
+  booktitle = {Findings of the Association for Computational Linguistics: ACL 2025},
+  author = {Junker, Simeon and Ali, Manar and Koch, Larissa and Zarrie{\ss}, Sina and Buschmeier, Hendrik},
+  year = {2025},
+  publisher = {Association for Computational Linguistics},
+  address = {Vienna, Austria}
+  pages = {}
+  doi = {10.48550/arXiv.2506.11807}
+}

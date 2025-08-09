@@ -1,6 +1,6 @@
 # MLLMs as Listeners
 
-Code for the paper ["Are Multimodal Large Language Models Pragmatically Competent Listeners in Simple Reference Resolution Tasks?"](https://aclanthology.org/2025.findings-acl.1236/) (ACL Findings 2025)
+Code for the paper ["Are Multimodal Large Language Models Pragmatically Competent Listeners in Simple Reference Resolution Tasks?"](https://doi.org/10.18653/v1/2025.findings-acl.1236) (ACL Findings 2025)
 
 ## Reproduction steps
 
@@ -33,6 +33,7 @@ Code for the paper ["Are Multimodal Large Language Models Pragmatically Competen
     address = "Vienna, Austria",
     publisher = "Association for Computational Linguistics",
     url = "https://aclanthology.org/2025.findings-acl.1236/",
+    doi = "https://doi.org/10.18653/v1/2025.findings-acl.1236",
     pages = "24101--24109",
     ISBN = "979-8-89176-256-5",
     abstract = "We investigate the linguistic abilities of multimodal large language models in reference resolution tasks featuring simple yet abstract visual stimuli, such as color patches and color grids. Although the task may not seem challenging for today{'}s language models, being straightforward for human dyads, we consider it to be a highly relevant probe of the pragmatic capabilities of MLLMs. Our results and analyses indeed suggest that basic pragmatic capabilities, such as context-dependent interpretation of color descriptions, still constitute major challenges for state-of-the-art MLLMs."
